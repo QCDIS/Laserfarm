@@ -10,6 +10,7 @@ dependencies:
   - python-pdal
   - gdal
   - shapely  # needed to install the correct version of geos
+  - lazrs-python >= 0.5.0
   - pip
   - pip:
       - -r requirements.txt
